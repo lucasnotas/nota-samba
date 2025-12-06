@@ -1,0 +1,2 @@
+# samba
+Comando instalação sambaeconfiguração

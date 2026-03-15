@@ -12,7 +12,7 @@ Notas: Abiente virtua ....
 <br/>
 <p>Desativar Abiente Virtual</p>
 
-	sudo systemctl restart smbd
+	deactivate
 <br/>
 <p>Utilizando pip dentro do ambiente virtual:</p>
 
